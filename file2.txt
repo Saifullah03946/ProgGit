@@ -1,1 +1,1 @@
-This is the File2 of master.
+This is the File2 of Branch.
